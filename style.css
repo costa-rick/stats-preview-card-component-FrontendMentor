@@ -37,7 +37,7 @@ img {
 .cartao {
 	background: var(--cor-primaria-2);
 	border-radius: 1rem;
-	margin: 0 1.5rem;
+	margin: 2rem;
 	max-width: 30.1rem;
 }
 
