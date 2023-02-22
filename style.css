@@ -1,0 +1,43 @@
+:root {
+	--cor-primaria-1: hsl(233, 47%, 7%);
+	--cor-primaria-2: hsl(244, 38%, 16%);
+	--cor-primaria-3: hsl(277, 64%, 61%);
+
+	--cor-neutra-1: hsl(0, 0%, 100%);
+	--cor-neutra-2: hsla(0, 0%, 100%, 0.75);
+	--cor-neutra-3: hsla(0, 0%, 100%, 0.6);
+
+	font-size: 62.5%;
+}
+
+/* Resetar */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-size: 1.6rem;
+}
+
+img {
+	max-width: 100%;
+	display: block;
+}
+
+/* Fontes */
+
+.fonte-pri-1 {
+	font: 400 1.4rem/1.5 'Inter', sans-serif;
+}
+
+.fonte-pri-2 {
+	font: 700 2rem/1.3 'Inter', sans-serif;
+}
+
+.fonte-sec-1-upp {
+	font: 400 1.2rem/1.35 'Lexend Deca', sans-serif;
+	text-transform: uppercase;
+}
