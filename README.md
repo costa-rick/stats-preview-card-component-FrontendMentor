@@ -2,6 +2,8 @@
 
 **Nível do projeto: novato - Frontend Mentor**
 
+site - https://costa-rick.github.io/stats-preview-card-component-FrontendMentor
+
 ## Design desktop
 
 ![](./captura-projeto-finalizado/desktop-design.jpg)
